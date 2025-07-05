@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arshad Khan</h1>
 <h3 align="center"></h3>
 
-- 🌱 I’m currently learning **t**
+- 🌱 I’m currently learning ****
 
 - 📫 How to reach me **arshadkn2002@gmail.com**
 
