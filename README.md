@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arshad Khan</h1>
-<h3 align="center">A passionate java developer from India</h3>
+<h3 align="center"></h3>
 
-- 🌱 I’m currently learning **spring boot**
+- 🌱 I’m currently learning **t**
 
 - 📫 How to reach me **arshadkn2002@gmail.com**
 
